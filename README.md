@@ -39,10 +39,10 @@ s.send("Acknowledgement Recived".encode())
 ```
 ## OUTPUT
 ## CLIENT:
-![Screenshot 2024-04-09 152419](https://github.com/23004513/SocketStudy/assets/138973069/ba59b22b-cfb8-4552-af79-7e00532e353e)
+
 
 ## SERVER:
-![Screenshot 2024-04-09 152432](https://github.com/23004513/SocketStudy/assets/138973069/d4b0944c-e6b0-457e-b090-2f6b882b9150)
+![Screenshot 2024-04-09 152432](http
 
 
 ## RESULT
