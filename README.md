@@ -39,10 +39,12 @@ s.send("Acknowledgement Recived".encode())
 ```
 ## OUTPUT
 ## CLIENT:
+![image](https://github.com/Saiguruchandran/2a_Stop_and_Wait_Protocol/assets/144870946/accb4c7f-8825-4910-ac49-48c3057e3154)
 
 
 ## SERVER:
-![Screenshot 2024-04-09 152432](http
+![image](https://github.com/Saiguruchandran/2a_Stop_and_Wait_Protocol/assets/144870946/314965c5-1740-4b90-ba0e-c9d121f29c3b)
+
 
 
 ## RESULT
