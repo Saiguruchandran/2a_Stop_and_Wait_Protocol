@@ -1,5 +1,7 @@
 # 2a_Stop_and_Wait_Protocol
-## AIM 
+## NAME : SAIGURUCHANDRAN
+## REG NO: 212223240143
+## AIM :
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
 1. Start the program.
